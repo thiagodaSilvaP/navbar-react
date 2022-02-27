@@ -1,0 +1,22 @@
+.bar {
+    background-color: red;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 3rem;
+    padding: 10px;
+    background-color: #222;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.bar:hover {
+    background-color: #3F00FF;
+}
+.bar-title {
+    font-size: medium;
+    margin-left: 10px;
+}
+.icon-bar {
+    font-size: medium;
+}
